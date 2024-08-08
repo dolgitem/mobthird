@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "21913270500",
+      "project_id": "thirteen-generation",
+      "storage_bucket": "thirteen-generation.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:21913270500:android:9278618e8e69146c8554f1",
+          "android_client_info": {
+            "package_name": "listok.listokdelta"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBMPJMAnzlhFuQXXosaXCoAAgaKWT87II8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:21913270500:android:f0d7e39210c33b7f8554f1",
+          "android_client_info": {
+            "package_name": "listok.plankabel"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBMPJMAnzlhFuQXXosaXCoAAgaKWT87II8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

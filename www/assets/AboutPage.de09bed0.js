@@ -1,0 +1,1 @@
+import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const e={};function t(_,c){return" \u041E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0438 "}var n=r(e,[["render",t]]);export{n as default};
