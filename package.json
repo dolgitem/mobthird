@@ -15,7 +15,8 @@
   "cordova": {
     "platforms": [
       "browser",
-      "android"
+      "android",
+      "ios"
     ],
     "plugins": {
       "cordova-plugin-ionic-webview": {}
@@ -24,6 +25,7 @@
   "devDependencies": {
     "cordova-android": "^13.0.0",
     "cordova-browser": "^7.0.0",
+    "cordova-ios": "^7.1.1",
     "cordova-plugin-firebasex": "^16.5.0",
     "cordova-plugin-ionic-webview": "^5.0.1"
   }
