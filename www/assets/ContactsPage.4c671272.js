@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{k as r,p as t}from"./index.53a38dab.js";const c={};function o(a,n){return r(),t("div",null," Contacts here ")}var f=e(c,[["render",o]]);export{f as default};

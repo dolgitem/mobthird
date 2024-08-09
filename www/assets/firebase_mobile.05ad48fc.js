@@ -1,1 +1,0 @@
-import{b as n,D as t}from"./index.f78a3f78.js";document.addEventListener("deviceready",function(){var o;o=window.FirebasePlugin,o.getToken(function(e){console.log(e),LocalStorage.set("pushToken",e)},function(e){console.log(e)}),o.onMessageReceived(function(e){console.log(e),t.create({title:e.title,message:e.body})})},!1);var s=n(async()=>{});export{s as default};

@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{k as r,p as c}from"./index.f78a3f78.js";const o={};function t(n,a){return r(),c("div",null," Documents ")}var m=e(o,[["render",t]]);export{m as default};
