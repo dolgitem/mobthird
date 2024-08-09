@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{k as r,p as t}from"./index.3c8f5d62.js";const a={};function n(c,o){return r(),t("div",null," Payments ")}var m=e(a,[["render",n]]);export{m as default};
