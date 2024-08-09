@@ -13,6 +13,6 @@
         <preference name="ScrollEnabled" value="true" />
     </platform>
     <platform name="android">
-        <resource-file src="src-cordova/google-services.json" target="app/google-services.json" />
+        <resource-file src="google-services.json" target="app/google-services.json" />
     </platform>
 </widget>
