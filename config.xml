@@ -9,6 +9,7 @@
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-navigation href="about:*" />
+    <plugin name="cordova-plugin-firebasex" source="npm" spec="16.5.0" />
     <platform name="ios">
         <preference name="ScrollEnabled" value="true" />
     </platform>
